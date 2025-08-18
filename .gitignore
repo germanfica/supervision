@@ -1,6 +1,9 @@
 # Utils
 output.txt
 
+# Yolo
+yolov8n.pt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
