@@ -3,6 +3,7 @@ output.txt
 
 # Yolo
 yolov8n.pt
+yolov8n-pose.pt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

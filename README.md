@@ -16,4 +16,5 @@ pip install -r requirements.txt
 
 ```
 python demo_supervision.py
+python demo_supervision_pose.py
 ```
